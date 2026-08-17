@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm V3r4, a computer science student based in Kenya.
+I'm **V3r4**, a computer science student based in Kenya.
 
 I'm **focused in building strong technical foundations and exploring different areas of computing**.
 
@@ -14,6 +14,6 @@ If you'd like to **collaborate with me** on projects, Connect with me via [Linke
 
   - I love solving Kahoot! quizzes and logic puzzles.
   - I listen to jazz-funk music for focus while coding.
-  - I am deeply committed to continuous personal growth
+  - I am deeply committed to continuous personal growth.
 
 **Hobbies:** Dancing, Crocheting, Learning new languages.
