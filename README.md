@@ -8,7 +8,7 @@ I'm currently learning and working on small projects in C, C++, Data structures,
 
 I'm Always **open to recommendations, resource suggestions, or project ideas that can help me master complex concepts and level up my skills**.
 
-If you'd like to **collaborate with me** on projects, Connect with me via [LinkedIn] (https://www.linkedin.com/in/alice-njeri-7610a43a1/).
+If you'd like to **collaborate with me** on projects, Connect with me via [LinkedIn](https://www.linkedin.com/in/alice-njeri-7610a43a1/).
 
 **Fun facts:**
 
